@@ -1,0 +1,3 @@
+# test_scrollView
+
+stackViewで垂直方向と水平方向にスクロールを切り替えられるようにしたscrollView
